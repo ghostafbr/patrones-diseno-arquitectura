@@ -1,1 +1,2 @@
 # patrones-diseno-arquitectura
+_Los estilos arquitectónicos son artefactos de ingeniería que definen clases de diseño junto con las propiedades conocidas asociadas a ellos. Ofrecen evidencia basada en la experiencia sobre la forma en que se ha utilizado históricamente cada clase, junto con razonamiento cualitativo para explicar por qué cada clase tiene esas propiedades específicas (Klein & Kazman, s. f.)._
